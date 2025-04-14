@@ -1,0 +1,18 @@
+# Ignore environment variables
+.env
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore knowledgebase files
+knowledgebase/
+
+# Ignore Chroma database
+chroma_db/
+
+# Ignore system prompt
+system_prompt.txt
+
+# Ignore any log files and temporary files
+*.log
+*.tmp
